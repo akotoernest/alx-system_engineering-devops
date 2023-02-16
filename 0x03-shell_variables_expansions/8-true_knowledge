@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((100+28)) > export TRUEKNOWLEDGE
+echo $((100+28)) > export TRUEKNOWLEDGE "\n"
